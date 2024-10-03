@@ -1,1 +1,1 @@
-# EDA-for-Retail-Sales-Dashboard
+This repository contains an Exploratory Data Analysis (EDA) project focused on sales transactions from an online UK-based retailer between 2010 and 2011. The primary goal is to analyze and visualize sales trends, customer behavior, and regional performance, with insights supporting future AI/ML tasks like customer segmentation, sales prediction, and demand forecasting
